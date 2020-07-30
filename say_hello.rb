@@ -1,6 +1,6 @@
 
 
-def say_hello(name = "kent back")
+def say_hello(name = "Ruby Programmer")
   puts ("Hello #{name}!")
 end
 
