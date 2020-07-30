@@ -3,3 +3,5 @@
 def say_hello(name = "kent back")
   puts ("Hello #{name}!")
 end
+
+say_hello(Ruby Programmer")
